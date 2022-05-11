@@ -12,6 +12,9 @@ Go to editor.p5js.org \
 Add all files to editor \
 Click play button in top left
 
+## URL
+Go to fahnz.github.io 
+
 # How To Use?
 ## Controls
 Use the left right down and right arrow keys to rotate the cube \
