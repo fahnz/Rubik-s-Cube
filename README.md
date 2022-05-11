@@ -1,4 +1,4 @@
-# Rubik-s-Cube
+# Rubiks-Cube
 Final Capstone project
 
 # Installation
