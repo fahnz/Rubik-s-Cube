@@ -25,4 +25,3 @@ Use SHIFT "q" "w" "e" "a" "s" "d" to rotate the cube the opposite way \
 Press "Enter" to scramble the cube \
 Refresh the page to start from the beginning
 
-## Test section REMOVE SOOn
