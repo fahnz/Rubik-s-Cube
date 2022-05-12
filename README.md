@@ -32,7 +32,5 @@ Screenshot of what the project looks like
 ## The Coding Train
 I would of not been able to complete this project without the help of Coding Train. His video's do an awesome job explaining how to build a Rubik's cube along with the math behind the rotations and how objects work in 3D space. His video's are below for reference and do a great job at explaining the building of a Rubik's Cube.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9PGfL4t-uqE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EGmVulED_4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=9PGfL4t-uqE&ab_channel=TheCodingTrain
+https://www.youtube.com/watch?v=EGmVulED_4M&ab_channel=TheCodingTrain
