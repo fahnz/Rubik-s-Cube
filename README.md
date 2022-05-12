@@ -27,7 +27,7 @@ Refresh the page to start from the beginning
 
 # Picture
 Screenshot of what the project looks like \
-![rubiks_cube](rubiks_cube.png)
+![rubiks_cube](rubiks_cube.PNG)
 
 # Recognition
 ## The Coding Train
