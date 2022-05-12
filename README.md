@@ -26,7 +26,7 @@ Press "Enter" to scramble the cube \
 Refresh the page to start from the beginning
 
 # Picture
-Screenshot of what the project looks like
+Screenshot of what the project looks like \
 ![rubiks_cube](rubiks_cube.png)
 
 # Recognition
